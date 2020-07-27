@@ -1,4 +1,8 @@
 ## Fierce Magic Frog
++1s  
++1s  
+Long live the elder!
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MagicFrogSJTU&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" />
 
 
