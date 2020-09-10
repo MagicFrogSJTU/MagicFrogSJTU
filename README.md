@@ -1,25 +1,13 @@
 ## Fierce Magic Frog  暴力魔蛤
-+1s  
-+1s  
-Long live the elder!
+> +1s  
+> +1s  
+> Long live the elder!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MagicFrogSJTU&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" />
+### who am I
+一个图像/音频算法工程师，苦逼996中
 
-📫 How to reach me:  
+### How to reach me:  
 我的[知乎链接](https://www.zhihu.com/people/cheng-yi-zhi-96), 欢迎来点赞！
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MagicFrogSJTU&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" />
 
-<!--
-**MagicFrogSJTU/MagicFrogSJTU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
