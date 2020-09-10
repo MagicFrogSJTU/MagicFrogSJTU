@@ -9,5 +9,5 @@
 ### How to reach me:  
 我的[知乎链接](https://www.zhihu.com/people/cheng-yi-zhi-96), 欢迎来点赞！
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MagicFrogSJTU&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MagicFrogSJTU&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" />
 
