@@ -1,7 +1,5 @@
 ## Fierce Magic Frog  暴力魔蛤
-> +1s  
-> +1s  
-> Long live the elder!
+>  一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程
 
 ### who am I
 一个图像/音频算法工程师，苦逼996中
