@@ -5,7 +5,7 @@
 一个图像/音频算法工程师，苦逼996中
 
 ### How to reach me:  
-我的[知乎文章](https://www.zhihu.com/people/cheng-yi-zhi-96/posts), 欢迎来点赞！
+我的[知乎文章](https://www.zhihu.com/people/magic-frog-sjtu/posts), 欢迎来点赞！
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MagicFrogSJTU&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" />
 
