@@ -1,6 +1,5 @@
-## Brute Magic Frog  暴力魔蛤
+## Creepy Magic Frog
 >  Success of a man, of course, depends on his own struggle, but the history also matters a lot  
->  一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程
 
 
 ### who am I
